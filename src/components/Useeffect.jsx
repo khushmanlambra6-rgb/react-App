@@ -1,5 +1,5 @@
-import React from 'react'
-import { useEffect } from 'react'
+// import React from 'react'
+// import { useEffect } from 'react'
 import { useState } from 'react'
 const Useeffect = () => {
 
@@ -15,7 +15,7 @@ const handleclick=()=>{
 
   return (
     <div>
-      <button onClick={handleclick}>click</button><Br/>
+      <button onClick={handleclick}>click</button><br/>
       count is:{count}
     </div>
   )
