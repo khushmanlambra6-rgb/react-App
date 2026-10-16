@@ -86,61 +86,69 @@ const Assignment2 = () => {
 
   // ques5
 
-const products=[
-  {
-    "id":1,
-    "name":"addidas",
-    "price":10000,
-  },
+// const products=[
+//   {
+//     "id":1,
+//     "name":"addidas",
+//     "price":10000,
+//   },
 
-  {
-    "id":2,
-    "name":"redtape",
-    "price":3000,
-  },
+//   {
+//     "id":2,
+//     "name":"redtape",
+//     "price":3000,
+//   },
 
-  {
-    "id":3,
-    "name":"nike",
-    "price":12000,
-  },
+//   {
+//     "id":3,
+//     "name":"nike",
+//     "price":12000,
+//   },
 
-  {
-    "id":4,
-    "name":"h&m",
-    "price":6000,
+//   {
+//     "id":4,
+//     "name":"h&m",
+//     "price":6000,
   
-  },
+//   },
 
-   {
-    "id":5,
-    "name":"tommy",
-    "price":16000,
+//    {
+//     "id":5,
+//     "name":"tommy",
+//     "price":16000,
   
-  },
+//   },
 
-   {
-    "id":6,
-    "name":"parada",
-    "price":44000,
+//    {
+//     "id":6,
+//     "name":"parada",
+//     "price":44000,
   
-  },
+//   },
 
-   {
-    "id":7,
-    "name":"burberry",
-    "price":44000,
+//    {
+//     "id":7,
+//     "name":"burberry",
+//     "price":44000,
   
-  },
+//   },
 
-   {
-    "id":8,
-    "name":"uspolo",
-    "price":2000,
+//    {
+//     "id":8,
+//     "name":"uspolo",
+//     "price":2000,
   
-  }
-]
+//   }
+// ]
 
+
+
+
+// ques2
+
+
+ 
+   
 
 
   return (
