@@ -5,13 +5,15 @@
 // import Effectstate from './components/Effectstate'
 // import Formhandling from './components/Formhandling'
 // import Assignment2 from './components/Assignment2'
-import Useeffect from './components/Useeffect'
+import Assignment3 from './components/Assignment3'
+// import Useeffect from './components/Useeffect'
 
 const App = () => {
   return (
     // <Formhandling/>
     // <Assignment2/>
-    <Useeffect/>
+    // <Useeffect/>
+    <Assignment3/>
     
   )
 }
